@@ -1,2 +1,0 @@
-# Typescript-Assignment
-Typescript 
